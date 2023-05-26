@@ -12,11 +12,17 @@ Como desarrollador Fullstack, tengo experiencia en el uso de varias tecnologías
 he adquirido:
 
 ✅ HTML: Creación de estructuras y maquetación de páginas web.
+
 ✅ CSS: Estilización y diseño de interfaces web.
+
 ✅ JavaScript: Desarrollo de lógica de programación y manipulación del DOM.
+
 ✅ PostgreSQL: Gestión y diseño de bases de datos relacionales.
+
 ✅ React.js: Construcción de interfaces de usuario reactivas y dinámicas.
+
 ✅ Node.js y Express: Creación de servidores y desarrollo de aplicaciones backend.
+
 ✅ Sequelize: ORM (Object-Relational Mapping) para trabajar con bases de datos relacionales.
 
 ## Pasión y Objetivos 🚀
